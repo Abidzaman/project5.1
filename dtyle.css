@@ -1,0 +1,42 @@
+.container{    width: 800px;
+    height: 600px;
+    background: yellow;
+    margin-left: auto;
+    margin-right: auto;}
+.head{    width: 800px;
+    height: 50px;
+    background: black;}
+.logo{    width: 15%;
+    height: 100%;
+    background: #bd3131;
+    float: left;}
+.menu{    float: right;
+    width: 85%;
+    height: 100%;
+    background: #0d0d0e;}
+ .banner{    width: 800px;
+    height: 400px;
+    background: purple;
+    float: left}
+
+.part1{width: 15%;
+    height: 100%;
+    background: #3636c3;
+    float: left;}
+.part2{    width: 85%;
+    height: 20%;
+    background: #675a5c;
+    float: right}
+.part3{width: 85%;
+    height: 20%;
+    background: #3a9090;
+    float: right;}
+
+.party1{    width: 40%;
+    height: 60%;
+    background: #bb7712;
+    float: left;}
+.party2{}
+.footer{    width: 100%;
+    height: 80%;
+    background: indigo;}
